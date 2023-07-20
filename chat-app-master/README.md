@@ -1,0 +1,1 @@
+Applicazione realizzata a scopo didattico per il corso di Epicode
